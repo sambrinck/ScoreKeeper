@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string
+		name="hello">Hello World, Start!</string>
+	<string
+		name="app_name">Score Keeper</string>
+	<string
+		name="startButton">start</string>
+	<string
+		name="addPlayer">add player</string>
+	<string name="playerNames">players</string>
+</resources>
